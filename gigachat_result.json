@@ -1,0 +1,271 @@
+[
+  {
+  "document_id": "1154",
+  "entities": [
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Солсбери", "type": "LOC"},
+    {"text": "Сергей Скрипаль", "type": "PER"},
+    {"text": "ГРУ", "type": "ORG"},
+    {"text": "Джереми Хант", "type": "PER"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Брюссель", "type": "LOC"},
+    {"text": "Соединенного Королевства", "type": "LOC"},
+    {"text": "David Davis", "type": "PER"},
+    {"text": "Мэтт Хэнкок", "type": "PER"},
+    {"text": "Brexit", "type": "EVT"},
+    {"text": "Sky News", "type": "ORG"}
+  ]
+},
+{
+  "document_id": "1142",
+  "entities": [
+    {"text": "Джереми Хант", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Дэвид Кэмерон", "type": "PER"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Евросоюза", "type": "ORG"},
+    {"text": "Брекзит", "type": "EVT"}
+  ]
+},
+{
+  "document_id": "1038",
+  "entities": [
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Доминик Рааб", "type": "PER"},
+    {"text": "Дэвис", "type": "PER"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Брекзит", "type": "EVT"},
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Германия", "type": "LOC"},
+    {"text": "Ангела Меркель", "type": "PER"},
+    {"text": "Хорст Зеехофер", "type": "PER"}
+  ]
+},
+{
+  "document_id": "1042",
+  "entities": [
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Доминик Рааб", "type": "PER"},
+    {"text": "The Guardian", "type": "ORG"},
+    {"text": "Девид Дэвис", "type": "PER"},
+    {"text": "Консервативная партия", "type": "ORG"},
+    {"text": "ЕС", "type": "ORG"},
+    {"text": "Чекерс", "type": "LOC"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Северная Ирландия", "type": "LOC"},
+    {"text": "Милош Земан", "type": "PER"},
+    {"text": "ANO", "type": "ORG"},
+    {"text": "Андрей Бабиш", "type": "PER"},
+    {"text": "Чехия", "type": "LOC"},
+    {"text": "Brexit", "type": "EVT"}
+  ]
+},
+{
+  "document_id": "1123",
+  "entities": [
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Би-би-си", "type": "ORG"},
+    {"text": "Лора Кюнсберг", "type": "PER"},
+    {"text": "Консерваторы", "type": "ORG"},
+    {"text": "Брексит", "type": "EVT"},
+    {"text": "Давид Дэвис", "type": "PER"},
+    {"text": "Брюссель", "type": "LOC"},
+    {"text": "Чекерс", "type": "LOC"}
+  ]
+},
+{
+  "document_id": "1013",
+  "entities": [
+    {"text": "МИД России", "type": "ORG"},
+    {"text": "Мария Захарова", "type": "PER"},
+    {"text": "Facebook", "type": "PRO"},
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "NATO", "type": "ORG"},
+    {"text": "Эймсбери", "type": "LOC"},
+    {"text": "Россия", "type": "LOC"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Солсбери", "type": "LOC"},
+    {"text": "REGNUM", "type": "ORG"}
+  ]
+},
+{
+  "document_id": "1019",
+  "entities": [
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Brexit", "type": "EVT"},
+    {"text": "ЕС", "type": "ORG"},
+    {"text": "Британия", "type": "LOC"},
+    {"text": "Владимир Путин", "type": "PER"},
+    {"text": "Новичок", "type": "PRO"},
+    {"text": "Coca-Cola", "type": "ORG"},
+    {"text": "Nestle", "type": "ORG"},
+    {"text": "Unilever", "type": "ORG"},
+    {"text": "Procter & Gamble", "type": "ORG"},
+    {"text": "BRITANIA", "type": "LOC"},
+    {"text": "FACEBOOK", "type": "PRO"},
+    {"text": "Российская Федерация", "type": "LOC"},
+    {"text": "Regnum", "type": "ORG"},
+    {"text": "Boris Johnson", "type": "PER"}
+  ]
+},
+{
+  "document_id": "1150",
+  "entities": [
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Стив Бейкер", "type": "PER"},
+    {"text": "Доминик Рааб", "type": "PER"},
+    {"text": "Брекзит", "type": "EVT"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Палата общин", "type": "ORG"},
+    {"text": "Консерваторы", "type": "ORG"},
+    {"text": "Джереми Хант", "type": "PER"}
+  ]
+},
+{
+  "document_id": "1155",
+  "entities": [
+    {"text": "Джереми Хант", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "ЕС", "type": "ORG"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Стив Бейкер", "type": "PER"},
+    {"text": "Доминик Рааб", "type": "PER"},
+    {"text": "Консервативная партия", "type": "ORG"},
+    {"text": "Даунинг-стрит", "type": "LOC"},
+    {"text": "Мэттью Хэнкок", "type": "PER"},
+    {"text": "Джереми Райт", "type": "PER"},
+    {"text": "Т.Мэй", "type": "PER"},
+    {"text": "Brexit", "type": "EVT"}
+  ]
+},
+{
+  "document_id": "1057",
+  "entities": [
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "BBC", "type": "ORG"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Русская служба \"Би-би-си\"", "type": "ORG"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Брексит", "type": "EVT"}
+  ]
+},
+{
+  "document_id": "1003",
+  "entities": [
+    {"text": "Рейтер", "type": "ORG"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Даунинг-Стрит", "type": "LOC"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Евросоюз", "type": "ORG"},
+    {"text": "Брекзит", "type": "EVT"},
+    {"text": "Дэвид Дэвис", "type": "PER"}
+  ]
+},
+{
+  "document_id": "1100",
+  "entities": [
+    {"text": "Рааб", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Brexit", "type": "EVT"},
+    {"text": "ЕС", "type": "ORG"}
+  ]
+},
+{
+  "document_id": "1159",
+  "entities": [
+    {"text": "Рааб", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Брекзит", "type": "EVT"},
+    {"text": "ЕС", "type": "ORG"},
+    {"text": "НАТО", "type": "ORG"},
+    {"text": "Путин", "type": "PER"},
+    {"text": "Австрия", "type": "LOC"},
+    {"text": "Польша", "type": "LOC"},
+    {"text": "Италия", "type": "LOC"},
+    {"text": "DW", "type": "ORG"},
+    {"text": "Deutsche Welle", "type": "ORG"},
+    {"text": "Барбара Везель", "type": "PER"}
+  ]
+},
+{
+  "document_id": "1047",
+  "entities": [
+    {"text": "Борис Джонсон", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Brexit", "type": "EVT"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "The Guardian", "type": "ORG"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Стив Бейкер", "type": "PER"},
+    {"text": "Департамент по выходу Британии из ЕС", "type": "ORG"},
+    {"text": "Ирландия", "type": "LOC"},
+    {"text": "Северная Ирландия", "type": "LOC"},
+    {"text": "Совет Европейского совета", "type": "ORG"},
+    {"text": "Европейская комиссия", "type": "ORG"},
+    {"text": "ЕС", "type": "ORG"},
+    {"text": "Руководящая группа Европейского парламента", "type": "ORG"}
+  ]
+},
+{
+  "document_id": "1024",
+  "entities": [
+    {"text": "Доминик Рааб", "type": "PER"},
+    {"text": "Великобритании", "type": "LOC"},
+    {"text": "Brexit", "type": "EVT"},
+    {"text": "Тереза Мэй", "type": "PER"},
+    {"text": "Пресс-служба британского правительства", "type": "ORG"},
+    {"text": "Дэвид Дэвис", "type": "PER"},
+    {"text": "Европа", "type": "LOC"},
+    {"text": "Брюссель", "type": "LOC"},
+    {"text": "Маргаритис Схинас", "type": "PER"},
+    {"text": "Европейская комиссия", "type": "ORG"},
+    {"text": "Королева Великобритании Елизавета II", "type": "PER"},
+    {"text": "Совет Европейского Совета", "type": "ORG"},
+    {"text": "FOKUS MEDIA", "type": "ORG"},
+    {"text": "Интерфакс-Украина", "type": "ORG"}
+  ]
+},
+{
+  "document_id": "1025",
+  "entities": [
+    {"text": "Leave.EU", "type": "ORG"},
+    {"text": "Аррон Бэнкс", "type": "PER"},
+    {"text": "Посольство России", "type": "ORG"},
+    {"text": "The Guardian", "type": "ORG"},
+    {"text": "Кэрол Кадуолладр", "type": "PER"},
+    {"text": "Питер Джукс", "type": "PER"},
+    {"text": "Observer", "type": "ORG"},
+    {"text": "New York Times", "type": "ORG"},
+    {"text": "Симан Поваренко", "type": "PER"},
+    {"text": "Jim Mellon", "type": "PER"},
+    {"text": "Manx Financial Group", "type": "ORG"},
+    {"text": "Charlemagne Capital", "type": "ORG"},
+    {"text": "Алроса", "type": "ORG"},
+    {"text": "Сергей Иванов", "type": "PER"},
+    {"text": "Владимир Путин", "type": "PER"},
+    {"text": "Роснефть", "type": "ORG"},
+    {"text": "Дональд Трамп", "type": "PER"}
+  ]
+}
+]
